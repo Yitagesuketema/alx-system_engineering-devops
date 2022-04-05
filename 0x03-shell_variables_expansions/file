@@ -1,0 +1,43 @@
+    product: X551CAP (ASUS-NotebookSKU)
+       product: X551CAP
+             product: EBJ40UG8EFU0
+             product: [Empty]
+             product: HMT425S6AFR6A-PB
+             product: [Empty]
+          product: Intel(R) Celeron(R) CPU 1007U @ 1.50GHz
+          product: 3rd Gen Core processor DRAM Controller
+             product: 3rd Gen Core processor Graphics Controller
+             product: 7 Series/C210 Series Chipset Family USB xHCI Host Controller
+                product: xHCI Host Controller
+                   product: Optical USB Mouse
+                product: xHCI Host Controller
+             product: 7 Series/C216 Chipset Family MEI Controller #1
+             product: 7 Series/C216 Chipset Family USB Enhanced Host Controller #2
+                product: EHCI Host Controller
+                   product: Integrated Rate Matching Hub
+                      product: Bluetooth USB Host Controller
+                      product: USB2.0 HD UVC WebCam
+             product: 7 Series/C216 Chipset Family High Definition Audio Controller
+             product: 7 Series/C216 Chipset Family PCI Express Root Port 1
+             product: 7 Series/C210 Series Chipset Family PCI Express Root Port 2
+                product: AR9485 Wireless Network Adapter
+             product: 7 Series/C216 Chipset Family PCI Express Root Port 4
+                product: RTS5286 PCI Express Card Reader
+                product: RTL810xE PCI Express Fast Ethernet controller
+             product: 7 Series/C216 Chipset Family USB Enhanced Host Controller #1
+                product: EHCI Host Controller
+                   product: Integrated Rate Matching Hub
+             product: HM70 Express Chipset LPC Controller
+             product: 7 Series Chipset Family 6-port SATA Controller [AHCI mode]
+             product: 7 Series/C216 Chipset Family SMBus Controller
+          product: PnP device PNP0c01
+          product: PnP device PNP0c02
+          product: PnP device PNP0b00
+          product: PnP device INT3f0d
+          product: PnP device PNP0c02
+          product: PnP device ETD0108
+          product: PnP device ATK3001
+          product: PnP device PNP0c02
+          product: PnP device PNP0c02
+          product: PnP device PNP0c01
+             product: HGST HTS541075A9
