@@ -69,10 +69,10 @@ tasks `102` and `103`.
 * **9. To file, or not to file**
   * [9-to_file_or_not_to_file](./9-to_file_or_not_to_file): Bash script that gives information
   about the `Best school` file.
-    * If the file exists, displays: `holbertonschool file exists`.
-    * If the file does not exist, displays: `holbertonschool file does not exist`.
-    * If the file exists and is empty, displays: `holbertonschool file is empty`.
-    * If the file exists and is not empty, displays: `holbertonschoolfile is not
+    * If the file exists, displays: `Best school file exists`.
+    * If the file does not exist, displays: `Best school file does not exist`.
+    * If the file exists and is empty, displays: `Best school file is empty`.
+    * If the file exists and is not empty, displays: `Best school file is not
     empty`.
     * If the file exists and is a regular file, displays: `holbertonschool file
     is a regular file`.
