@@ -74,7 +74,7 @@ tasks `102` and `103`.
     * If the file exists and is empty, displays: `Best school file is empty`.
     * If the file exists and is not empty, displays: `Best school file is not
     empty`.
-    * If the file exists and is a regular file, displays: `holbertonschool file
+    * If the file exists and is a regular file, displays: `Best School file
     is a regular file`.
     * Otherwise, displays nothing.
 
