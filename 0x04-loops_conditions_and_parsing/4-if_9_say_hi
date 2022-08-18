@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This cript that displaying  Best School 10 times,
+# but for the 9th iteration, displays Best School and then Hi on a new line.
+i=0
