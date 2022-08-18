@@ -30,7 +30,7 @@ tasks `102` and `103`.
   displays `School 10 times using a `while` loop.
 
 * **3. Until School loop**
-  * [3-until_holbsch](./3-until_best_school): Bash script that displays
+  * [3-until_best_school](./3-until_best_school): Bash script that displays
   Best`School ` 10 times using an `until` loop.
 
 * **4. If 9, say Hi!**
