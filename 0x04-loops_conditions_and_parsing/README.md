@@ -21,22 +21,22 @@ tasks `102` and `103`.
   * [0-RSA_public_key.pub](./0-RSA_public_key.pub): A public SSH key uploaded for the
   purposes of ALX SE programme.
 
-* **1. For School loop**
-  * [1-for_holberton_school](./1-for_holberton_school): Bash script that displays
-  `School` 10 times using a `for` loop.
+* **1. For Best School loop**
+  * [1-for_best_school](./1-for_holberton_school): Bash script that displays
+  `Best School` 10 times using a `for` loop.
 
-* **2. While  School loop**
+* **2. While Best  School loop**
   * [2-while_school](./2-while_holberton_school): Bash script that
   displays `School 10 times using a `while` loop.
 
 * **3. Until School loop**
-  * [3-until_holbsch](./3-until_holberton_school): Bash script that displays
-  `School` 10 times using an `until` loop.
+  * [3-until_holbsch](./3-until_best_school): Bash script that displays
+  Best`School ` 10 times using an `until` loop.
 
 * **4. If 9, say Hi!**
-  * [4-if_9_say_hi](./4-if_9_say_hi): Bash script that displays `Holberton School`
+  * [4-if_9_say_hi](./4-if_9_say_hi): Bash script that displays `Best School`
   10 times using a `while` loop.
-  * For the 9th iteration, displays `Holberton School` and then `Hi` on a
+  * For the 9th iteration, displays `Best School` and then `Hi` on a
   new line.
   * Uses an `if` statement.
 
@@ -45,7 +45,7 @@ tasks `102` and `103`.
   from 1 to 10 using a `while` loop and:
     * Displays `bad luck` on the 4th iteration.
     * Displays `good luck` on the 8th iteration.
-    * Displays `Holberton School` for all other iterations.
+    * Displays `Best School` for all other iterations.
   * Uses the `if`, `elif`, and `else` statements.
 
 * **6. Superstitious numbers**
@@ -68,7 +68,7 @@ tasks `102` and `103`.
 
 * **9. To file, or not to file**
   * [9-to_file_or_not_to_file](./9-to_file_or_not_to_file): Bash script that gives information
-  about the `holbertonschool` file.
+  about the `Best school` file.
     * If the file exists, displays: `holbertonschool file exists`.
     * If the file does not exist, displays: `holbertonschool file does not exist`.
     * If the file exists and is empty, displays: `holbertonschool file is empty`.
