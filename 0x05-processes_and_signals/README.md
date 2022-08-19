@@ -26,7 +26,7 @@ sylvain@ubuntu$
 
 **Repo:**
 
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
+-   GitHub repository: [`alx-system_engineering-devops`](../alx.-system _engineering-devops)
 -   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
 -   File:  [`0-what-is-my-pid`](./0-what-is-my-pid)
 
