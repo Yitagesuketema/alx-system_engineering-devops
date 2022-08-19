@@ -99,8 +99,8 @@ sylvain@ubuntu$
 **Repo:**
 
 -   GitHub repository: [`alx-system_engineering-devops`](./)
--   Directory:  [`0x05-processes_and_signals`](. ./0x05 -process)
--   File:  [`1-list_your_processes`](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/1-list_your_processes)
+-   Directory:  [`0x05-processes_and_signals`](. ./0x05 -processes_and_signals)
+-   File:  [`1-list_your_processes`](./1-list_your_processes)
 
 
 Done!  Help  Check your code  Get a sandbox
@@ -129,9 +129,10 @@ Here we can see that my Bash PID is  `4404`.
 
 **Repo:**
 
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [`2-show_your_bash_pid`](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/2-show_your_bash_pid)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](.
+-   )
+-   File:  [`2-show_your_bash_pid`](./2-show_your_bash_pid)
 ### 3. Show your Bash PID made easy
 Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word  `bash`.
 
