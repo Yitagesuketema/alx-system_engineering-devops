@@ -28,7 +28,7 @@ sylvain@ubuntu$
 
 -   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
 -   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [`0-what-is-my-pid`](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/0-what-is-my-pid)
+-   File:  [`0-what-is-my-pid`](./0-what-is-my-pid)
 
 ### 1. List your processes
 Write a Bash script that displays a list of currently running processes.
@@ -41,6 +41,7 @@ Requirements:
 
 ```
 sylvain@ubuntu$ ./1-list_your_processes | head -50
+
 USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 root         2  0.0  0.0      0     0 ?        S    Feb13   0:00 [kthreadd]
 root         3  0.0  0.0      0     0 ?        S    Feb13   0:00  \_ [ksoftirqd/0]
