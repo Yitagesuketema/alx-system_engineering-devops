@@ -1,4 +1,4 @@
-# 0x05. Processes and signals
+<span style="color: red;"># 0x05. Processes and signals</span>
 ## Learning Objectives
 
 ### General
