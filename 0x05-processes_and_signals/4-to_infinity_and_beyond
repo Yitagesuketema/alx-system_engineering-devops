@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# a Bash script that displays To infinity and beyond indefinitely
+# a sleep 2In between each iteration of the loop
+
+for (( i=0; i>=0; i++ ))
+    do
+    echo 'To infinity and beyond'
+    sleep 2
+    done
+export i
