@@ -98,7 +98,7 @@ sylvain@ubuntu$
 
 **Repo:**
 
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
 -   Directory:  [`0x05-processes_and_signals`](../0x05 -process)
 -   File:  [`1-list_your_processes`](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/1-list_your_processes)
 
