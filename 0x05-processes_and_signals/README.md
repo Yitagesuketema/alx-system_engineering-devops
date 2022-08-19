@@ -544,3 +544,5 @@ In Terminal #0, I start by compiling  `102-zombie.c`  and executing  `zombie`  w
 -   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
 -   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
 -   File:  [``102-zombie.c``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/102-zombie.c)
+## Author
+  [Yitagesu Ketema](https://github.com/Yitagesuketema/)
