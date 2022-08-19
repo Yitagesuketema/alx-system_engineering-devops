@@ -1,21 +1,0 @@
-Script started on 2022-08-19 12:24:40+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="150" LINES="34"]
-
-]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ 
-]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ git commit -m '[K]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ g
-it commit -m '[K[A]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ g
-it commit -m '[K[A]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ g
-it commit -m 'script that displays a list of currently running processes.[K'
-[master 63130bc] script that displays a list of currently running processes
- 1 file changed, 5 insertions(+), 2 deletions(-)
-]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ git push
-Enumerating objects: 7, done.
-Counting objects:  14% (1/7)Counting objects:  28% (2/7)Counting objects:  42% (3/7)Counting objects:  57% (4/7)Counting objects:  71% (5/7)Counting objects:  85% (6/7)Counting objects: 100% (7/7)Counting objects: 100% (7/7), done.
-Delta compression using up to 2 threads
-Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
-Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 486 bytes | 97.00 KiB/s, done.
-Total 4 (delta 2), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
-To https://github.com/Yitagesuketema/alx-system_engineering-devops
-   2982a8b..63130bc  master -> master
-]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ [K]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ [K]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ clear
-[H[2J[3J]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ [K]0;yitu@yitu-X551CAP: ~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[01;32myitu@yitu-X551CAP[00m:[01;34m~/Desktop/Alx School Projects/alx-system_engineering-devops/0x05-processes_and_signals[00m$ [K]0
