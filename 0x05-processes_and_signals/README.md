@@ -99,7 +99,7 @@ sylvain@ubuntu$
 **Repo:**
 
 -   GitHub repository: [`alx-system_engineering-devops`](./)
--   Directory:  [`0x05-processes_and_signals`](. ./0x05 -processes_and_signals)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
 -   File:  [`1-list_your_processes`](./1-list_your_processes)
 
 
@@ -130,8 +130,7 @@ Here we can see that my Bash PID is  `4404`.
 **Repo:**
 
 -   GitHub repository: [`alx-system_engineering-devops`](./)
--   Directory:  [`0x05-processes_and_signals`](.
--   )
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
 -   File:  [`2-show_your_bash_pid`](./2-show_your_bash_pid)
 ### 3. Show your Bash PID made easy
 Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word  `bash`.
@@ -157,10 +156,9 @@ Here we can see that:
 -   For the second iteration:  `bash`  PID is  `4404`  and that the  `3-show_your_bash_pid_made_easy`  script PID is  `4557`
 
 **Repo:**
-
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [`3-show_your_bash_pid_made_easy`](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/3-show_your_bash_pid_made_easy)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [`3-show_your_bash_pid_made_easy`](./3-show_your_bash_pid_made_easy)
 ### 4. To infinity and beyond
 Write a Bash script that displays  `To infinity and beyond`  indefinitely.
 
@@ -184,9 +182,9 @@ Note that I  `ctrl+c`  (killed) the Bash script in the example.
 
 **Repo:**
 
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [``4-to_infinity_and_beyond``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/3`4-to_infinity_and_beyond`)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [``4-to_infinity_and_beyond``](./3`4-to_infinity_and_beyond`)
 ### 5. Don't stop me now!
 We stopped our  `4-to_infinity_and_beyond`  process using  `ctrl+c`  in the previous task, there is actually another way to do this.
 
@@ -230,10 +228,9 @@ sylvain@ubuntu$
 I opened 2 terminals in this example, started by running my  `4-to_infinity_and_beyond`  Bash script in terminal #0 and then moved on terminal #1 to run  `5-dont_stop_me_now`. We can then see in terminal #0 that my process has been terminated.
 
 **Repo:**
-
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [``5-dont_stop_me_now``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/5-dont_stop_me_now)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [``5-dont_stop_me_now``](./5-dont_stop_me_now)
 ### 6. Stop me if you can
 Write a Bash script that stops  `4-to_infinity_and_beyond`  process.
 
@@ -272,10 +269,9 @@ sylvain@ubuntu$
 I opened 2 terminals in this example, started by running my  `4-to_infinity_and_beyond`  Bash script in terminal #0 and then moved on terminal #1 to run  `6-stop_me_if_you_can`. We can then see in terminal #0 that my process has been terminated.
 
 **Repo:**
-
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [``6-stop_me_if_you_can``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/6-stop_me_if_you_can)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [``6-stop_me_if_you_can``](./6-stop_me_if_you_can)
 
 ### 7. Highlander
 
@@ -322,10 +318,9 @@ I started  `7-highlander`  in Terminal #0 and then run  `67-stop_me_if_you_can` 
 
 **Repo:**
 
-
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [``7-highlander``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/7-highlander)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [``7-highlander``](./7-highlander)
 ### 8. Beheaded process
 
 Write a Bash script that kills the process  `7-highlander`.
@@ -354,9 +349,9 @@ sylvain@ubuntu$
 I started  `7-highlander`  in Terminal #0 and then run  `8-beheaded_process`  in terminal #1 and we can see that the  `7-highlander`  has been killed.
 
 **Repo:**
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [``8-beheaded_process``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/8-beheaded_process)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [``8-beheaded_process``](./8-beheaded_process)
  ## Advanced Tasks
 ### 9. Process and PID file
 Write a Bash script that:
@@ -409,9 +404,9 @@ sylvain@ubuntu$
 Starting  `100-process_and_pid_file`  in the terminal #0 and then killing it in the terminal #1.
 
 **Repo:**
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [``100-process_and_pid_file``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/100-process_and_pid_file)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [``100-process_and_pid_file``](./100-process_and_pid_file)
       ## Advanced Tasks
 ### 10. Manage my process
 man:  `sudo`
@@ -482,11 +477,9 @@ sylvain@ubuntu$
 ```
 
 **Repo:**
-
-
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [``101-manage_my_process, manage_my_process``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/1101-manage_my_process, manage_my_process)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [``101-manage_my_process, manage_my_process``](./101-manage_my_process, manage_my_process)
 
 ### 11. Zombie
 Write a C program that creates 5 zombie processes.
@@ -542,9 +535,8 @@ sylvain@ubuntu$
 In Terminal #0, I start by compiling  `102-zombie.c`  and executing  `zombie`  which creates 5 zombie processes. In Terminal #1, I display the list of processes and look for lines containing  `Z+.*<defunct>`  which catches zombie process.
 
 **Repo:**
-
--   GitHub repository: [`alx-system_engineering-devops`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   Directory:  [`0x05-processes_and_signals`](https://github.com/Yitagesuketema/alx-system_engineering-devops)
--   File:  [``102-zombie.c``](https://github.com/Yitagesuketema/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/102-zombie.c)
+-   GitHub repository: [`alx-system_engineering-devops`](./)
+-   Directory:  [`0x05-processes_and_signals`](../0x05-processes_and_signals)
+-   File:  [``102-zombie.c``](./102-zombie.c)
 ## Author
   [Yitagesu Ketema](https://github.com/Yitagesuketema/)
