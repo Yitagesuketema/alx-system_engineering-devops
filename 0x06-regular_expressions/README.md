@@ -374,3 +374,6 @@ $
 ```
 
 File: [`100-textme.rb`](./100-textme.rb)
+## Author
+[Yitagesu Ketema](https://www.github.com/yitagesuketema)
+##  
