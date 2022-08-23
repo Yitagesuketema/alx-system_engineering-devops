@@ -105,10 +105,9 @@ File: [`1-repetition_token_0.rb`](./1-repetition_token_0.rb)
 
 
 
-Requirements:<img width="967" alt="Task_2" src="https://user-images.githubusercontent.com/66600426/186179706-3c6396ab-0210-465e-b22c-d8b54e6d74b0.png">
+<img width="967" alt="Task_2" src="https://user-images.githubusercontent.com/66600426/186179706-3c6396ab-0210-465e-b22c-d8b54e6d74b0.png">
 
-
-
+Requirements:
 
 - Find the regular expression that will match the above cases
 
