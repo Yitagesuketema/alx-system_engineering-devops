@@ -1,1 +1,2 @@
-regex [school];
+#!/usr/bin/env ruby
+/School/
