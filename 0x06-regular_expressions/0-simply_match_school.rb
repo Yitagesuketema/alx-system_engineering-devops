@@ -1,1 +1,1 @@
-ore.search([school])
+regex [school];
