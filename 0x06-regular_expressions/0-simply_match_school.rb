@@ -1,0 +1,1 @@
+ore.search([school])
