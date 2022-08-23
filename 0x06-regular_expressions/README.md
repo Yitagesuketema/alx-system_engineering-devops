@@ -41,8 +41,9 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 
 
 
-### 0. Simply matching School
-[./img/Task_0.png](./img/Task_0.png)
+### 0. Simply matching School<img width="969" alt="Task_0" src="https://user-images.githubusercontent.com/66600426/186179462-9d8d84d8-4ff5-4a1c-bf22-525cae89dcee.png">
+
+
 
 Requirements:
 
@@ -84,15 +85,7 @@ File: [`0-simply_match_school.rb`](./0-simply_match_school.rb)
 
 ### 1. Repetition Token #0
 
-
-
-mandatory
-
-
-
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220823T123857Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a3108f6d43906cc547dc8b967b919f8e3336ccdb9941408c7b4f9e716b8a2c34)
-
-
+<img width="959" alt="Task_1" src="https://user-images.githubusercontent.com/66600426/186179641-c164f08c-285c-4fe5-9647-de4538dbaa5b.png">
 
 Requirements:
 
@@ -112,15 +105,8 @@ File: [`1-repetition_token_0.rb`](./1-repetition_token_0.rb)
 
 
 
-mandatory
+Requirements:<img width="967" alt="Task_2" src="https://user-images.githubusercontent.com/66600426/186179706-3c6396ab-0210-465e-b22c-d8b54e6d74b0.png">
 
-
-
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220823T123857Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=001e26a788b2bf15dd062c8cb97d1e564024cf00658d93101883c4b9b2cfbd3f)
-
-
-
-Requirements:
 
 
 
@@ -142,8 +128,8 @@ Done! Help Check your code Get a sandbox
 
 
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220823T123857Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=99ad77b43df36b4654ad6d136fe542b24ace1c1b5a53c3a007532e57b28001ad)
 
+<img width="974" alt="Tas_3" src="https://user-images.githubusercontent.com/66600426/186179771-e7b2337c-d8df-4ae3-a70f-e1b78cdde254.png">
 
 
 Requirements:
@@ -164,9 +150,7 @@ File: [`3-repetition_token_2.rb`](./3-repetition_token_2.rb)
 
 
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220823T123857Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0d9ec89e4da5ed0f1e3135d11f499d54987255c4450379b98c6e4d6663daa6d5)
-
-
+<img width="956" alt="Task_4" src="https://user-images.githubusercontent.com/66600426/186179807-ab7f0ed8-7be7-4c7a-b3a2-fbd3962fc6e1.png">
 
 Requirements:
 
