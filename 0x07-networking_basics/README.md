@@ -45,8 +45,9 @@ It is organized from the lowest level to the highest level:
 -   The highest level: layer 7 which is for application specific communication like SNMP for emails, HTTP for your web browser, etc
 
 Keep in mind that the OSI model is a concept, it’s not even tangible. The OSI model doesn’t perform any functions in the networking process. It is a conceptual framework so we can better understand complex interactions that are happening. Most of the functionality in the OSI model exists in all communications systems.
+![eeee](https://user-images.githubusercontent.com/66600426/186367079-a7cfee54-b7bf-46c9-a681-71a44ee2565c.png)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T075140Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9e310e02ae1493718858e19886beaa036696c83883993b7dad9cb163cff31c54)
+
 
 In this project we will mainly focus on:
 
@@ -54,8 +55,8 @@ In this project we will mainly focus on:
 -   On the Network layer with IP and ICMP
 
 The image bellow describes more concretely how you can relate to every level.
+![Task 0-1](https://user-images.githubusercontent.com/66600426/186367286-350f537b-4c3d-4aed-adb7-a1ce5ed8d503.jpg)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T075140Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e1c7dc8aeda1bd409702e3e3276bf437530c1ec2f4fcf0e0dddc9699c15160dd)
 
 Questions:
 
@@ -73,8 +74,9 @@ How is the OSI model organized?
 
 -   File:  [`0-OSI_model`](./0-OSI_model)
 ### 1. Types of network
+![Task 0-1](https://user-images.githubusercontent.com/66600426/186367430-c02fcf35-a9cc-4b72-941d-539cf50270f2.jpg)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/4b995d4f8078b44afa968d68a98035d2bd7e8fac.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T075140Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6239f1a236c835058468294eb149252bdcd2102d141bcb5e65fc9dfdce275c4e)
+
 
 LAN connect local devices together, WAN connects LANs together, and WANs are operating over the Internet.
 
@@ -99,9 +101,10 @@ What network do you use when you browse www.google.com from your smartphone (not
 3.  LAN
 -   File:  [`1-types_of_network`](./1-types_of_network)
 
-### 2. MAC and IP address
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/1e348ba3bcbb094b02922f821ffeb3d8c5438b7b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T075140Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b78411cd9f03f3b194a2dfdd331f50fe106cc5724957d87a8c83b2522083e33b)
+## 2. MAC and IP address
+#![task 2](https://user-images.githubusercontent.com/66600426/186367723-2920ed6a-a5d6-476a-a9e2-955bbaba72af.jpg)
+
 
 Questions:
 
@@ -123,8 +126,8 @@ What is an IP address?
 
 ### 3. UDP and TCP
 
+![task 3](https://user-images.githubusercontent.com/66600426/186368061-7ad2c109-c591-4553-988e-e949e40a0a09.jpg)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3d92e3c4a470f8ecf4c73db511fcbbadaa002e1c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T075140Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bd55c2fa65481936b652efe11f243d88520bd298fd7ed35c0a3b7345fb1763dd)
 
 Let’s fill the empty parts in the drawing above.
 
