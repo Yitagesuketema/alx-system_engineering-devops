@@ -74,8 +74,7 @@ How is the OSI model organized?
 
 -   File:  [`0-OSI_model`](./0-OSI_model)
 ### 1. Types of network
-![Task 0-1](https://user-images.githubusercontent.com/66600426/186367430-c02fcf35-a9cc-4b72-941d-539cf50270f2.jpg)
-
+![task 1](https://user-images.githubusercontent.com/66600426/186368864-6ecf9f1c-d505-48a4-b62d-5cedba544f23.jpg)
 
 
 LAN connect local devices together, WAN connects LANs together, and WANs are operating over the Internet.
@@ -234,3 +233,7 @@ It is interesting to look at the  `time`  value, which is the time that it took 
 
 Next time you feel that your connection is slow, try the  `ping`  command to see what is going on!
 -   File:  [`5-is_the_host_on_the_network`](./5-is_the_host_on_the_network)
+##  Author
+
+##  [Yitagesu Ketema](https://www.github.com/yitagesuketema)
+#
