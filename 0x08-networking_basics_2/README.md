@@ -95,7 +95,7 @@ Obviously, the IPs displayed may be different depending on which machine you are
 
 Note that we can see our  `localhost`  IP :)
 
- File:  `1-show_attached_IPs`
+ File:  [`1-show_attached_IPs`](./1-show_attached_IPs)
  ### 2. Port listening on localhost
 
 # Advanced Task
@@ -140,4 +140,4 @@ For the sake of the exercise, this connection is made entirely within  `localhos
 
 As you can see, this can come in very handy in a multitude of situations. Maybe you’re debugging socket connection issues, or you’re trying to connect to a software and you are unsure if the issue is the software or the network, or you’re working on firewall rules… Another tool to add to your debugging toolbox!
 
-File:  `100-port_listening_on_localhost`
+File: [ `100-port_listening_on_localhost`](./%20100-port_listening_on_localhost)
