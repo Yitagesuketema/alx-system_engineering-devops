@@ -72,7 +72,9 @@ In this example we can see that:
 
 If you’re running this script on a machine that you’ll continue to use, be sure to revert  `localhost`  to  `127.0.0.1`. Otherwise, a lot of things will stop working!
 
-  File:  `0-change_your_home_IP`
+ 
+  File: [ `0-change_your_home_IP`](./0-change_your_home_IP)
+  
   ### 1. Show attached IPs
 
 mandatory
