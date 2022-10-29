@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Connects to my 30234-web-01server.
+ssh -i ~/.ssh/30234-web-01 ubuntu@44.197.116.222
